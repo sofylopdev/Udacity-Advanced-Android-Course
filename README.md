@@ -32,7 +32,7 @@ This is the toy app for the Places lesson of the [Advanced Android App Developme
 ## AdvancedAndroid_ClassicalMusicQuiz
 This is the toy app for the Media Playback lesson of the [Advanced Android App Development course on Udacity](https://eu.udacity.com/course/advanced-android-app-development--ud855).
 
-![alt text](https://github.com/sofylopdev/Udacity-Advanced-Android-Course/blob/master/StartMusicQuiz.png)  ![alt text](https://github.com/sofylopdev/Udacity-Advanced-Android-Course/blob/master/MusicQuiz.png)
+![alt text](https://github.com/sofylopdev/Udacity-Advanced-Android-Course/blob/master/StartMusicQuiz.png) ![alt text](https://github.com/sofylopdev/Udacity-Advanced-Android-Course/blob/master/MusicQuiz.png)
 
 
 ## My Garden
