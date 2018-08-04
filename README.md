@@ -4,7 +4,7 @@ Projects done as part of Android Developer Nanodegree Program: Advanced Android 
 ## Android_Me
 App that lets you style your own Android! This uses Fragments to create a flexible and responsive UI.
 
-This is a exercise repository for the AndroidMe example app which is part of the [Advanced Android App Development course on Udacity](https://eu.udacity.com/course/advanced-android-app-development--ud855).
+This app is part of the [Advanced Android App Development course on Udacity](https://eu.udacity.com/course/advanced-android-app-development--ud855).
 
 ![alt text](https://github.com/sofylopdev/Udacity-Advanced-Android-Course/blob/master/Android_Me_Tablet.png)
 
