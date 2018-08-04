@@ -32,13 +32,14 @@ This is the toy app for the Places lesson of the [Advanced Android App Developme
 ## AdvancedAndroid_ClassicalMusicQuiz
 This is the toy app for the Media Playback lesson of the [Advanced Android App Development course on Udacity](https://eu.udacity.com/course/advanced-android-app-development--ud855).
 
-![alt text](https://github.com/sofylopdev/Udacity-Advanced-Android-Course/blob/master/StartMusicQuiz.png) ![alt text](https://github.com/sofylopdev/Udacity-Advanced-Android-Course/blob/master/MusicQuiz.png)
+| Start Page | Quiz Page | 
+| --- | --- | 
+|![alt text](https://github.com/sofylopdev/Udacity-Advanced-Android-Course/blob/master/StartMusicQuiz.png)|![alt text](https://github.com/sofylopdev/Udacity-Advanced-Android-Course/blob/master/MusicQuiz.png)|
 
 
 ## My Garden
 This is the toy app for the Widgets lesson of the Advanced Android App Development course on Udacity.
 
-The app
 My Garden is a simple game that allows you to add plants to your garden and keep them alive by watering them on time. The app illustrates the power of widgets and collection widgets by making it easier for the user to monitor and water their plants from the home screen
 
 ![alt text](https://github.com/sofylopdev/Udacity-Advanced-Android-Course/blob/master/MyGarden.png)
@@ -49,4 +50,6 @@ This is the toy app for the Espresso lesson of the [Advanced Android App Develop
 
 TeaTime is a mock tea ordering app that demonstrates various uses of the Espresso Testing framework (i.e. Views, AdapterViews, Intents, IdlingResources).
 
- ![alt text](https://github.com/sofylopdev/Udacity-Advanced-Android-Course/blob/master/TeaTimeScreen1.png)  ![alt text](https://github.com/sofylopdev/Udacity-Advanced-Android-Course/blob/master/TeaTimeScreen2.png)
+| Start Page | Quiz Page | 
+| --- | --- | 
+|![alt text](https://github.com/sofylopdev/Udacity-Advanced-Android-Course/blob/master/TeaTimeScreen1.png) |![alt text](https://github.com/sofylopdev/Udacity-Advanced-Android-Course/blob/master/TeaTimeScreen2.png)|
