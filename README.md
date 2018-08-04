@@ -12,7 +12,9 @@ This app is part of the [Advanced Android App Development course on Udacity](htt
 ## AdvancedAndroid_Emojify
 This is the toy app for the Libraries lesson of the [Advanced Android App Development course on Udacity](https://eu.udacity.com/course/advanced-android-app-development--ud855).
 
- ![alt text](https://github.com/sofylopdev/Udacity-Advanced-Android-Course/blob/master/Emojify.png)  ![alt text](https://github.com/sofylopdev/Udacity-Advanced-Android-Course/blob/master/EmojifyResult.png)
+| Emojify App | Result example | 
+| --- | --- | 
+|![alt text](https://github.com/sofylopdev/Udacity-Advanced-Android-Course/blob/master/Emojify.png) | ![alt text](https://github.com/sofylopdev/Udacity-Advanced-Android-Course/blob/master/EmojifyResult.png)|
 
 
 ## Squawker
